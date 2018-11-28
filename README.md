@@ -28,8 +28,12 @@ Your analysis should include:
 -	Like the answer above; if such a scenario would be implemented on the simulation, then the meta-agent would be more careful in selecting a pool since they are now aware of its costs and have the power to coordinate the behaviors of the agents in a subset.
 
 •	How do the answers to the above questions change as:
+
 o	tau is altered?
+
 o	If tau (tax) is altered, then the results shown in the simulation will change depending on the value set. If the tax is higher, chances are that the average, highest, and lowest money will be lower than normal. Else if tax is lowered, chances are that the average, highest, and lowest money will be higher than normal.
+
 o	you change the total number of agents in the world?
+
 o	Like in tau, if the total number of agents is decreased then chances are that the average, highest, and lowest money will be higher than normal. Else if the total number of agents is increased then chances are that the average, highest, and lowest money will be lower than normal.
 
